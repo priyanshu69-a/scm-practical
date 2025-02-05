@@ -1,0 +1,5 @@
+class test1{
+    oublic sttic void main (string[]args){
+        system.out.println("i love you priyanshu");
+    }
+}
